@@ -10,7 +10,7 @@ This is the main readme file for the code used in Mastering CI/CD with GitHub Ac
 To get started, clone this repository.
 
 ```
-git clone
+git clone https://github.com/ahmed777ismail/github-actions-course.git
 ```
 
 Next, copy your `.env.example` file as `.env` and configure your Database connection.
